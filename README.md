@@ -8,6 +8,8 @@ Dependencies
 
 For any support contact us here https://discord.gg/Hjjd6U658Z
 
+I DO NOT GIVE YOU PERMISSION TO PRESENT/SELL THIS SCRIPT AS YOUR OWN!
+
 # mygulin_1v1
 
 Závislosti
@@ -17,7 +19,5 @@ Závislosti
 - Item odměny definovám v inventáři
 
 Pro jakoukoli podporu nás kontaktujte zde: https://discord.gg/Hjjd6U658Z
-
-
 
 I DO NOT GIVE YOU PERMISSION TO PRESENT/SELL THIS SCRIPT AS YOUR OWN!
